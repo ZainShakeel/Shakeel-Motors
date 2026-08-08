@@ -41,7 +41,7 @@ export default function Header() {
           scrolled ? 'border-slate-200 shadow-soft' : 'border-transparent'
         }`}
       >
-        <nav className="container-x flex h-16 items-center justify-between lg:h-20" aria-label="Main">
+        <nav className="container-x flex h-20 items-center justify-between lg:h-24" aria-label="Main">
           <Logo />
 
           {/* Desktop nav */}

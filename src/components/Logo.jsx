@@ -24,7 +24,7 @@ export default function Logo({ light = false, className = '' }) {
           src="/logo.png"
           alt="Shakeel Motors"
           onError={() => setImgFailed(true)}
-          className="h-11 w-auto sm:h-14"
+          className="h-16 w-auto sm:h-[4.5rem] lg:h-20"
         />
       </Link>
     )
