@@ -8,3 +8,9 @@ dist-ssr
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# local logs
+dev.log
+dev.err.log
+preview.log
+preview.err.log
